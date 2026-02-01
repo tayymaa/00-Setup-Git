@@ -3,7 +3,6 @@
 
 # $CHALLENGIFY_BEGIN
 def my_name_is():
- 
-    pass
+     return "tayymaa"
 
 # $CHALLENGIFY_END
